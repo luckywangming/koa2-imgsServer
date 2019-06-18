@@ -1,0 +1,19 @@
+{
+  "name": "n_koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "mysql2": "^1.6.5",
+    "require-directory": "^2.1.1",
+    "sequelize": "^5.8.10"
+  }
+}
